@@ -1,2 +1,2 @@
-# IMLP
+# IMLP360
 This is NTUTRAIN IMLP course
